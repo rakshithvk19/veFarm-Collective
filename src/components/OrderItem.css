@@ -1,0 +1,48 @@
+/* Styles for order item container */
+.order-item {
+  /* Add your styles here */
+  list-style: none;
+  padding: 0px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  border: 1px solid black;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+
+/* Styles for transaction account */
+.txn-account {
+  /* Add your styles here */
+  margin: 0px;
+  padding: 10px;
+}
+
+/* Styles for person name */
+.person-name {
+  /* Add your styles here */
+  margin: 0px;
+  padding: 10px;
+}
+
+/* Styles for order date */
+.order-date {
+  /* Add your styles here */
+  margin: 0px;
+  padding: 10px;
+}
+
+/* Styles for order comments */
+.order-comments {
+  /* Add your styles here */
+  padding: 10px;
+  margin: 0px;
+}
+
+/* Styles for order rating */
+.order-rating {
+  /* Add your styles here */
+  margin: 0px;
+  padding: 10px;
+}

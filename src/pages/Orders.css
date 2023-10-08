@@ -1,0 +1,88 @@
+/* Orders.css */
+
+/* Styles for main container */
+.orders-main {
+  font-family: Arial, sans-serif;
+  margin-top: 10px;
+  background-color: rgba(178, 171, 224, 0.668);
+  height: calc(100vh - 5rem);
+  border: 1px solid black;
+  border-radius: 5px;
+}
+
+/* Styles for order details container */
+.order-details {
+  margin-bottom: 20px;
+}
+
+/* Styles for order button */
+.order-button {
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  background-color: #4caf50;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.order-button:hover {
+  background-color: #45a049;
+}
+
+/* Styles for order title */
+.order-title {
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+
+/* Styles for order information */
+.order-info {
+  font-size: 16px;
+}
+
+/* Styles for order list */
+.order-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+/* Styles for order item container */
+.order-item {
+  background-color: #f9f9f9;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+/* Styles for transaction account */
+.txn-account {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+/* Styles for person name */
+.person-name {
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+/* Styles for order date */
+.order-date {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+/* Styles for order comments */
+.order-comments {
+  font-size: 16px;
+  margin-bottom: 5px;
+}
+
+/* Styles for order rating */
+.order-rating {
+  font-size: 18px;
+  margin-bottom: 5px;
+}
